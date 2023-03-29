@@ -1,0 +1,20 @@
+These are the options available to dynamic configs
+TamingSpeedMultiplier
+HarvestAmountMultiplier
+XPMultiplier
+MatingIntervalMultiplier
+BabyMatureSpeedMultiplier
+EggHatchSpeedMultiplier
+BabyFoodConsumptionSpeedMultiplier
+CropGrowthSpeedMultiplier
+MatingSpeedMultiplier
+BabyCuddleIntervalMultiplier
+BabyImprintAmountMultiplier
+CustomRecipeEffectivenessMultiplier
+TributeItemExpirationSeconds
+TributeDinoExpirationSeconds
+EnableFullDump
+GUseServerNetSpeedCheck
+bUseAlarmNotifications
+HexagonRewardMultiplier
+NPCReplacements
